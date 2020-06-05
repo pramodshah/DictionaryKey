@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.*;
 
-public class HelloWorld{
+public class Solution{
    
    public static float finddiff(String dateBeforeString,String dateAfterString){
 	 SimpleDateFormat myFormat = new SimpleDateFormat("yyyy-MM-dd");
